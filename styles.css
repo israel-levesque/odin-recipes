@@ -1,0 +1,27 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+    color: lightcoral;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+}
+
+li {
+    padding: 10px;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
